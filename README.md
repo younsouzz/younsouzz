@@ -1,5 +1,10 @@
 ### Hi there, I'm Youness, Fullstack Software Developer 👋
 
+[**Check my portfolio here**](https://younessouzzedi.com)
+
+Languages used:
+
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
 **younsouzz/younsouzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
