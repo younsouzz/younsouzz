@@ -2,6 +2,9 @@
 
 <br />
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youzzedi/ "Connect on LinkedIn")
+
+
 ### [**Check my portfolio here**](https://younessouzzedi.com)
 <br />
 <br />
