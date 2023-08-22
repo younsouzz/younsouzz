@@ -5,6 +5,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youzzedi/ "Connect on LinkedIn")
 
+<a href="https://www.linkedin.com/in/youzzedi">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+
 <br />
 
 ### [**Check my portfolio here**](https://younessouzzedi.com)
