@@ -8,7 +8,7 @@
 <br />
 <br />
 
-### [**Click Here To Check My portfolio**](https://younessouzzedi.com)
+### [**Check my portfolio here**](https://younessouzzedi.com)
 <br />
 <br />
 
