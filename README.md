@@ -2,8 +2,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/youzzedi">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
+
 
 <br />
 <br />
